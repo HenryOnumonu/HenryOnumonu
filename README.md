@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henry.L
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... anything as long as there's a goal worh reaching
+- 💞️ I’m looking to collaborate on ... anything as long as there's a goal worth reaching
 - 📫 How to reach me ...imlendex@gmail.com
 
 <!---
