@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry.L
+- 👋 Hi, I’m Henry Onumonu
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... anything as long as it's worth doing
